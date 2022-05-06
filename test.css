@@ -1,0 +1,35 @@
+* {
+    font-size: 50px;
+    font-family: Poppins, sans-serif;
+}
+
+/*pear*/
+#container {
+    display: inline-block;
+    background-color: lightslategray;
+    width: 500px;
+    height: 300px;
+    margin-left: 400px;
+    margin-top: 184px;
+}
+/*orange*/
+#container2 {
+    display: inline-block;
+    background-color: lightslategray;
+    width: 500px;
+    height: 300px;
+    margin-left: 87px;
+    margin-top: -100px;
+}
+
+#inv, #inv2 {
+    margin-left: 300px;
+    margin-top: -220px;
+}
+
+#stockPrice, #stockPrice2 {margin-top: 0px;}
+
+#bank {
+    margin-left: 300px;
+    margin-top: 10px;
+}
